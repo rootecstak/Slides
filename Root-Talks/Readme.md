@@ -9,7 +9,7 @@
 
 # YOUTUBE CHANNEL
 
-- The slides from these webinars are available on our YouTube channel
+- These slides provide an overview. Watch the full webinar on our YouTube channel
 - https://www.youtube.com/@rootecstak
 
 # JOIN OUR COMMUNITY
