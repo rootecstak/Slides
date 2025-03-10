@@ -1,5 +1,8 @@
 # Event Details
 
+- Threat Modeling Step by Step Approach
+- Speaker: Mrs. Saravana Priya
+
 # Introducing Root Talks, an online venture by Rootecstak!
 
 # Strong, smart, and unstoppable - Wishing all the amazing women a Happy Women's Day!
